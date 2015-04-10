@@ -1,0 +1,20 @@
+{
+  "name": "zmaillard",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zmaillard/zmaillard.github.io",
+  "authors": [
+    "Zach Maillard <sagebrushgis@gmail.com>"
+  ],
+  "description": "Zachs Personal Website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
