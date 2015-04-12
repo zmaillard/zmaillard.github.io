@@ -1,4 +1,7 @@
 _site
 .sass-cache
+/.bundle
 
 /bower_components/
+/node_modules/
+/vendor/

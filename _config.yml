@@ -1,9 +1,9 @@
 # Site settings
 title: Zach Maillard
 email: sagebrushgis@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Description Goes Here
-baseurl: "" # the subpath of your site, e.g. /blog/
+#baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zmaillard.github.io"
 twitter_username: sagebrushgis
 github_username:  zmaillard
@@ -15,5 +15,10 @@ include:
   - .nojekyll
 
 exclude:
+  - "vendor/bundle"
+  - "Rakefile"
   - "bower_components"
   - "bower.json"
+  - "node_modules"
+  - "package.json"
+  - "Gruntfile.coffee"
