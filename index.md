@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: home
+title: Zach Maillard
+leftpanel: Foo
+rightpanel: Bar
 ---
 
 I am Zach Maillard, a software developer and cartographer living in Boise, Idaho.  I have 14 years of experience working with .NET technologies and the Esri GIS software stack.
