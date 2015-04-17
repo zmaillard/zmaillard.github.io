@@ -19,6 +19,19 @@ module.exports = (grunt) ->
           src: "jquery.min.js"
           dest: "vendor/js/"
         }]
+      fontawesome:
+        files: [{
+          expand: true
+          cwd: "bower_components/components-font-awesome/css/"
+          src: "font-awesome.min.css"
+          dest: "vendor/css/"
+        },
+        {
+          expand: true
+          cwd: "bower_components/components-font-awesome/"
+          src: ["fonts/**"],
+          dest: "vendor/"
+        }]
       bootstrap:
         files: [{
           expand: true
