@@ -26,6 +26,8 @@ My development interests break down into the ones I get paid for, and the ones I
 + Ubuntu
 + Java
 
+Check out my Projects page for some more detail about my use of these techonologies.  Or checkout my Github page.
+
 
 Brewing
 -------------------
@@ -37,8 +39,6 @@ As a young child, I learned how to read by reading words of street signs.  Soon 
 
 Travels
 ------------
-I have traveled extensivly throughout the western United States and Canada.  I have driven many a back road and hike many a trail.
-
-[United States Travels]
+I have traveled extensivly throughout the western United States and Canada.  I have driven many a back road and hike many a trail.  Here is a link to my travels troughout the United States.
 
 [United States Travels]: http://www.mob-rule.com/user-gifs/zmaillard.gif
