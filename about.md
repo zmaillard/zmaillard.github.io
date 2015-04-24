@@ -39,6 +39,6 @@ As a young child, I learned how to read by reading words of street signs.  Soon 
 
 Travels
 ------------
-I have traveled throughout throughout the western United States and Canada.  I have driven many a back road and hike many a trail.  Here is a link to my travels troughout the United States.
+I have traveled throughout the western United States and Canada.  I have driven many a back road and hike many a trail.  Here is a link to my travels troughout the United States.
 
 <http://www.mob-rule.com/user-gifs/zmaillard.gif>
