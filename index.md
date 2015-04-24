@@ -26,4 +26,4 @@ Some of the technologies that I develop with or use on a somewhat regular basis 
 + Vagrant
 + Java (Android)
 
-I am also an avid hiker, cyclist, and snowboarder, a home brewer, and someone who loves to cook.
+I am also an avid hiker, cyclist, and snowboarder, a home brewer, I love to cook as well.
