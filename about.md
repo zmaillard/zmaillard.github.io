@@ -26,19 +26,19 @@ My development interests break down into the ones I get paid for, and the ones I
 + Ubuntu
 + Java
 
-Check out my Projects page for some more detail about my use of these techonologies.  Or checkout my Github page.
+Check out my Projects page for some more detail about my use of these technologies.  Or checkout my Github page.
 
 
 Brewing
 -------------------
-I have always enjoyed drinking beer, but a year ago I finally decided to learn how to brew beer.  I took a class at the local brew store and became hooked.  My beer tastes lean towards the bold American IPA styles, particulary some of the IPA's out of the northwest.
+I have always enjoyed drinking beer, but a year ago I finally decided to learn how to brew beer.  I took a class at the local brew store and became hooked.  My beer tastes lean towards the bold American IPA styles, particularly some of the IPA's out of the northwest.
 
 Road Signs
 -------------------
-As a young child, I learned how to read by reading words of street signs.  Soon I was memorizing maps (to the point that I wanted to make a career out of it).  I remember drawing pretty accurate pictures of street signs in elementary school, down to fretting over the appropriate color of green for a road sign.  I started taking pictures of street signs with a film camera, and started taking lots of pictures with my first digital camera.  I have an entire site cateloging my road sign pictures here: `link goes here`.  
+As a young child, I learned how to read by reading words of street signs.  Soon I was memorizing maps (to the point that I wanted to make a career out of it).  I remember drawing pretty accurate pictures of street signs in elementary school, down to fretting over the appropriate color of green for a road sign.  I started taking pictures of street signs with a film camera, and started taking lots of pictures with my first digital camera.  I have an entire site cataloging my road sign pictures here: <{{ site.data.links.highwaysigns }}>.  
 
 Travels
 ------------
-I have traveled extensivly throughout the western United States and Canada.  I have driven many a back road and hike many a trail.  Here is a link to my travels troughout the United States.
+I have traveled throughout throughout the western United States and Canada.  I have driven many a back road and hike many a trail.  Here is a link to my travels troughout the United States.
 
-[United States Travels]: http://www.mob-rule.com/user-gifs/zmaillard.gif
+<http://www.mob-rule.com/user-gifs/zmaillard.gif>
