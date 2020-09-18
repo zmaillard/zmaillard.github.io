@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zmaillard.github.io/about/</loc>
+    <loc>http://sagebrushgis.com/about/</loc>
     <lastmod>2020-02-28T17:54:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zmaillard.github.io/</loc>
+    <loc>http://sagebrushgis.com/</loc>
     <lastmod>2020-02-28T17:54:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zmaillard.github.io/categories/</loc>
+    <loc>http://sagebrushgis.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zmaillard.github.io/series/</loc>
+    <loc>http://sagebrushgis.com/series/</loc>
   </url>
   
   <url>
-    <loc>https://zmaillard.github.io/tags/</loc>
+    <loc>http://sagebrushgis.com/tags/</loc>
   </url>
   
 </urlset>
